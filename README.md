@@ -1,4 +1,4 @@
 # opencore_macos
-EFI for opencore
+EFIs for opencore
 
-EFI_AMDAthlon200
+1) EFI_Athlon200GE
