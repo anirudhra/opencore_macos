@@ -1302,7 +1302,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>radpg=15 -radcodec gfxrst=4 alcid=1 -v keepsyms=1 debug=0x100</string>
+				<string>radpg=15 -radcodec -radnoaudio gfxrst=4 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
