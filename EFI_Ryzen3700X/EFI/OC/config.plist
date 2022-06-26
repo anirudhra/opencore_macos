@@ -1302,7 +1302,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>radpg=15 -radnoaudio -radcodec gfxrst=4 alcid=1 -v keepsyms=1 debug=0x100</string>
+				<string>radpg=15 -radcodec gfxrst=4 alcid=1 -v keepsyms=1 debug=0x100</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1375,23 +1375,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K305700GUFHDD8C</string>
+			<string>F5K036130GUK3F7A8</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>DNdGJh9a</data>
+			<data>tIsZJTpb</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro6,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KK6ZZFF9VM</string>
+			<string>F5KDCXY8P7QM</string>
 			<key>SystemUUID</key>
-			<string>979AAA70-91E2-4739-830B-4EA10BFAEEE2</string>
+			<string>0DE119EB-33D0-42C7-B51B-2467FAC9F784</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
