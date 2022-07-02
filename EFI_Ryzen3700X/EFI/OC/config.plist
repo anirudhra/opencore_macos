@@ -1161,7 +1161,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>LauncherOption</key>
 			<string>Full</string>
 			<key>LauncherPath</key>
@@ -1650,7 +1650,7 @@
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>ResizeGpuBars</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
