@@ -244,6 +244,13 @@
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>@0,name</key>
+				<string>ATY,Orinoco</string>
+				<key>Force_Load_FalconSMUFW</key>
+				<true/>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
@@ -364,9 +371,9 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>USBMap.kext</string>
+				<string>USBPorts.kext</string>
 				<key>Comment</key>
-				<string>USBMap.kext</string>
+				<string>USBPorts.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -1276,7 +1283,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>radpg=15 -radnoaudio alcid=1 -radcodec</string>
+				<string>alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1349,23 +1356,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K036130GUK3F7A8</string>
+			<string>C020192704NJG361H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>tIsZJTpb</data>
+			<data>vFK39p7Y</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KDCXY8P7QM</string>
+			<string>C02CP0VNHX87</string>
 			<key>SystemUUID</key>
-			<string>0DE119EB-33D0-42C7-B51B-2467FAC9F784</string>
+			<string>33013BB4-C772-4829-98D6-2D34091A1ABF</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
