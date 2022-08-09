@@ -13,3 +13,7 @@ macOS: Monterey 12.4, OC 0.8.1
 macOS: Monterey 12.5, OC 0.8.1 (w/ some plugins from 0.8.2)
 
 5) EFI_Ryzen3700X_BRCM_MacPro7_Polaris: Same as above with MacPro7.1, Removes all manual GPU framebuffers/SMUFW, Shaneee's patch instead of Algrey's original patch
+
+macOS: Monterey 12.5, OC 0.8.3
+
+6) EFI_083_Ryzen3700X_BRCM_MacPro7_Polaris: Same as above with OpenCore upgrade to 0.8.3 including all kexts to latest as on Aug 8, 2022
