@@ -9,4 +9,6 @@ macOS: Monterey 12.4
 2) EFI_Ryzen3700X: Audio works. MacPro7,1, Intel 3165 Wifi+BT
 3) EFI_Ryzen3700X_BRCM-Wifi: Same as above for Broadcom 94360ng Wifi+BT
 4) EFI_Ryzen3700X_BRCM_iMacPro_Polaris: Same as above with iMacPro1,1 SMBIOS with USBMap. Also adds Polaris GPU framebuffer and SMUFWLoad call in plist
+
+macOS: Monterey 12.5
 5) EFI_Ryzen3700X_BRCM_MacPro7_Polaris: Same as above with MacPro7,1 SMBIOS, Shaneee's patch instead of Algrey's original patch
