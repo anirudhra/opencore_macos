@@ -15,11 +15,11 @@ OpenCore Bootloader Restore
 
 Doing this will break Windows 11 bootup temporarily:
 
-* Access your EFI via administrative console (Admin Terminal)
+* Access your EFI via administrative console (Admin Terminal, "mountvol <drive:> <Volume name>")
 * Rename the bootmgfw.efi file under EFI/Microsoft to something you can remember, but it cannot have .efi at the end)
 * Replace BOOTX64.EFI inside EFI/BOOT with the one from your OpenCore install
 * Reboot machine
-* ---- In lieu of above, you can boot from OpenCore USB in to macOS and do above ----
+* ---- Alternatively, you can boot from OpenCore USB in to macOS and do above ----
 * You should see OpenCore again, boot back into macOS
 * Go into your config.plist, and enable LauncherOption (Either Full or Short) - https://dortania.github.io/OpenCore-Post-Install/multiboot/bootstrap.html
 * Reboot once more to choose OpenCore, but instead of booting into macOS, choose the reboot option
