@@ -9,4 +9,4 @@ macOS: Ventura 13.1, OC 0.9.0
 
 Ryzen Patches
 
-Individual scripts available. amdfriend compressed executable/binary also available for universal fix. Run after app updates
+Individual scripts available. amdfriend compressed executable/binary also available for universal fix (https://github.com/NyaomiDEV/AMDFriend). Run after app updates
