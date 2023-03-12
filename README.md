@@ -16,7 +16,7 @@ OpenCore Bootloader Restore
 
 Doing this will break Windows 11 bootup temporarily:
 
-* Access your EFI via administrative console (Admin Terminal, "mountvol <drive> <volume>")
+* Access your EFI via administrative console (Admin Terminal, "mountvol [drive] [volume]")
 * Rename the bootmgfw.efi file under EFI/Microsoft/Boot to something you can remember, but it cannot have .efi at the end)
 * Replace BOOTX64.EFI inside EFI/BOOT with the one from your OpenCore install
 * Reboot machine
