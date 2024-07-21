@@ -19,7 +19,7 @@ macOS: Sonoma 14.5
 * BIOS: F63a
 * OC: 0.9.8
 * EFI: ALCID=1, Shaneee's GPU patch instead of Algrey's original patch RX460
-* BIOS: Needs "secure boot" enabled, SVM/IOMMU enabled, above 4G decoding enabled, CSM disabled
+* BIOS: {"Secure boot", SVM/IOMMU, TPM, Above 4G decoding} enabled, CSM disabled
 
 ### Ryzen Patches
 
