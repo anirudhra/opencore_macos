@@ -18,7 +18,7 @@ macOS: Sonoma 14.5
 * SMBIOS: MacPro7,1
 * BIOS: F63a
 * OC: 0.9.8
-* EFI: ALCID=1, Shaneee's GPU patch instead of Algrey's original patch RX460
+* EFI: 6 Cores enabled, ALCID=1, Shaneee's GPU patch instead of Algrey's original patch RX460
 * BIOS: {"Secure boot", SVM/IOMMU, TPM, Above 4G decoding} enabled, CSM disabled
 
 ### Ryzen Patches
