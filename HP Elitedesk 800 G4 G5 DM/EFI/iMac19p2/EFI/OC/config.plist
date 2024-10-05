@@ -610,7 +610,7 @@
                     <key>BundlePath</key>
                     <string>SMCRadeonSensors.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0 | SMCRadeonSensors.kext</string>
+                    <string>V2.3.0 | SMCRadeonSensors.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1096,7 +1096,7 @@
                 <key>ScanPolicy</key>
                 <integer>19858179</integer>
                 <key>SecureBootModel</key>
-                <string>j185f</string>
+                <string>j185</string>
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
@@ -1280,13 +1280,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>MYMLB</string>
+                <string>ADD_HERE</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>MYROM</data>
+                <data>ADD_HERE</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1294,9 +1294,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,2</string>
                 <key>SystemSerialNumber</key>
-                <string>MYSERIAL</string>
+                <string>ADD_HERE</string>
                 <key>SystemUUID</key>
-                <string>MYUUID</string>
+                <string>ADD_HERE</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
