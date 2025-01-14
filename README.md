@@ -4,7 +4,7 @@
 ## HP Elitedesk 800 G4 Mini
 
 * HW: Intel Core i5-8600, Q370 Chipset, UHD 630 iGPU, AMD Radeon RX 560X 4GB (1 DP), 32GB DDR4-2666 2x16, MP44 2TB NVMe, Intel i219 LAN, Conexant Audio, Intel 9260 Wifi/BT, Dell 4K DP 
-macOS: Sequoia 15.2
+* macOS: Sequoia 15.2
 * SMBIOS: iMac19,2
 * BIOS: 2.27.00 RevA
 * OC: 1.0.3
