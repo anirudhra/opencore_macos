@@ -1,4 +1,5 @@
-# opencore_macos
+# OpenCore EFI for HP Elitedesk 800 G4 Mini
+
 ## EFIs for opencore
 
 ## HP Elitedesk 800 G4 Mini
