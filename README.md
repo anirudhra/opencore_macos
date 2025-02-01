@@ -1,6 +1,12 @@
 # OpenCore EFI for HP Elitedesk 800 G4 Mini
 
-## EFIs for opencore
+## Incremental OS updates
+
+1. Disable BlueToolFixup.kext extension under Kernel
+2. Disable SecureBootModel under Misc > Security
+3. Reboot
+4. Check for and install incremental OS updates
+5. Enable the kernel extension and security after update
 
 ## HP Elitedesk 800 G4 Mini
 
