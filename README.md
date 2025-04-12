@@ -1,5 +1,12 @@
 # OpenCore EFI for HP Elitedesk 800 G4 Mini
 
+This repo contains:
+
+1. EFIs for HP Elitedesk 800 G4 Mini (updated) and AMD Ryzen B450 based system (legacy/backup)
+2. System apps/scripts for HW monitoring, patching etc.
+3. iMac IORegDumps for references
+4. AMD Ryzen CPU patches to make apps like Adobe products etc. work on AMD CPUs that don't implement certain Intel CPU-specific instructions
+
 ## Incremental OS updates
 
 1. Disable BlueToolFixup.kext extension under Kernel
@@ -7,6 +14,7 @@
 3. Reboot
 4. Check for and install incremental OS updates
 5. Enable the kernel extension and security after update
+6. Reboot
 
 ## HP Elitedesk 800 G4 Mini
 
