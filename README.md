@@ -5,7 +5,8 @@ This repo contains:
 1. EFIs for HP Elitedesk 800 G4 Mini (updated) and AMD Ryzen B450 based system (legacy/backup)
 2. System apps/scripts for HW monitoring, patching etc.
 3. iMac IORegDumps for references
-4. AMD Ryzen CPU patches to make apps like Adobe products etc. work on AMD CPUs that don't implement certain Intel CPU-specific instructions
+4. DSDT/ACPI dumps for HP Elitedesk 800 G4 Mini, RX560 dGPU BIOS dumps and scripts
+5. AMD Ryzen CPU patches to make apps like Adobe products etc. work on AMD CPUs that don't implement certain Intel CPU-specific instructions
 
 ## Incremental OS updates
 
