@@ -11,14 +11,16 @@
 ## HP Elitedesk 800 G4 Mini
 
 * HW: Intel Core i5-8600, Q370 Chipset, UHD 630 iGPU, AMD Radeon RX 560X 4GB (1 DP), 32GB DDR4-2666 2x16, MP44 2TB NVMe, Intel i219 LAN, Conexant Audio, Intel 9260 Wifi/BT, Dell 4K DP 
-* macOS: Sequoia 15.2
+* macOS: Sequoia 15.4
 * SMBIOS: iMac19,2
-* BIOS: 2.27.00 RevA
-* OC: 1.0.3
+* BIOS: 2.30
+* OC: 1.0.4
 * EFI: iGPU as headless, AirportItlwm for wireless, 3008x1692x2 60Hz over displayport
 * BIOS: Secure boot disabled, {VT-d, TPM} enabled
 
-## AMD System
+While untested, this same EFI has been reported to work on HP Elitedesk 800 G5 Mini as well.
+
+## AMD System (decommissioned, for legacy/backup only)
 
 * HW: AMD Ryzen 5600 (6C12T), Gigabyte B450 I AORUS PRO WIFI (rev. 1.0) ITX, 32GB DDR4-3200 (16x2), WD SN850X 2TB NVMe, Intel I211 LAN, Realtek ALC1220 Audio, AMD RX460, Intel AC9260 WiFi+BT
 * macOS: Sonoma 14.5
