@@ -1,7 +1,7 @@
 #!/bin/sh
 # enable below
-defaults write com.apple.AppleGVA gvaForceAMDKE -boolean yes          #forces AMD DRM decoder for streaming services (like Apple TV and iTunes movie streaming)
-defaults write com.apple.coremedia hardwareVideoDecoder -string force #forces hardware accelerated video decoder (for any resolution)
+sudo defaults write com.apple.AppleGVA gvaForceAMDKE -boolean yes          #forces AMD DRM decoder for streaming services (like Apple TV and iTunes movie streaming)
+sudo defaults write com.apple.coremedia hardwareVideoDecoder -string force #forces hardware accelerated video decoder (for any resolution)
 #
 # below for reference
 #defaults write com.apple.AppleGVA gvaForceAMDKE -boolean yes #forces AMD DRM decoder for streaming services (like Apple TV and iTunes movie streaming)
