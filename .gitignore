@@ -33,6 +33,7 @@ patched-src
 .DS_Store
 .AppleDouble
 .LSOverride
+__MACOSX
 
 # Thumbnails
 ._*
