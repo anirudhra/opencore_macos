@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ "$(defaults read com.apple.AppleGVA gvaForceAMDKE)" == "1" ];
+then
+defaults write com.apple.AppleGVA gvaForceAMDKE -boolean false
+else
+defaults write com.apple.AppleGVA gvaForceAMDKE -boolean true
+fi

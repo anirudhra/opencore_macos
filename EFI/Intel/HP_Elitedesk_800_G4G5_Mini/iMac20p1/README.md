@@ -1,0 +1,1 @@
+This repo contains Airtportitlwm that's tested only with AX210 and is AppleVTd compatible. Make sure you enable that in the BIOS. It does not enable VoodooHDA kext as that conflicts with Apple HDMI and Apple USB audio drivers. The kext is provided in the repo and can be manually enabled.
